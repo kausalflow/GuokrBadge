@@ -22,6 +22,8 @@ GuokrBadge
 
 * CC BY
 
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccby.png)
+
 1x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccby.png`
 
@@ -33,6 +35,8 @@ GuokrBadge
 
 
 * CC BY-NC
+
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbync.png)
 
 1x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbync.png`
@@ -46,6 +50,7 @@ GuokrBadge
 
 * CC BY-SA
 
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbysa.png)
 
 1x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbysa.png`
@@ -59,6 +64,8 @@ GuokrBadge
 
 
 * CC BY-ND
+
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbynd.png)
 
 1x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbynd.png`
@@ -75,6 +82,8 @@ GuokrBadge
 
 * CC BY-NC-ND
 
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbyncnd.png)
+
 1x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbyncnd.png`
 
@@ -87,6 +96,7 @@ GuokrBadge
 
 * CC BY-NC-SA
 
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbyncsa.png)
 
 1x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccbyncsa.png`
