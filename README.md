@@ -109,3 +109,29 @@ GuokrBadge
 
 
 
+
+## 果壳色 Copyleft
+
+关于 copyleft: [Wikipedia: Copyleft](http://en.wikipedia.org/wiki/Copyleft)
+
+使用了果壳色：`#85c155`
+
+### 使用方法
+
+同 CC 协议。
+
+![Copyleft](https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl.png)
+
+mini (30 * 30):
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl_mini.png`
+
+1x:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl.png`
+
+2x:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl_2x.png`
+
+4x:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl_4x.png`
+
+
