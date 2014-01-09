@@ -122,7 +122,7 @@ GuokrBadge
 
 ![Copyleft](https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl.png)
 
-mini (30 * 30):
+mini (30*30):
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl_mini.png`
 
 1x:
@@ -133,5 +133,31 @@ mini (30 * 30):
 
 4x:
 `https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl_4x.png`
+
+
+
+## 果壳色 Copyright
+
+使用了果壳色：`#85c155`
+
+
+### 使用方法
+
+同 CC 协议。
+
+![Copyleft](https://raw.github.com/GuokrUnion/GuokrBadge/master/cr/cr.png)
+
+mini (30*30):
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cr/cr_mini.png`
+
+1x:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cr/cr.png`
+
+2x:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cr/cr_2x.png`
+
+4x:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cr/cr_4x.png`
+
 
 
