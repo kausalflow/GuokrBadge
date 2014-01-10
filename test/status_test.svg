@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="309.33334"
-   height="64"
+   width="92"
+   height="18"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="inprogress.svg">
+   sodipodi:docname="status_test.svg">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -27,6 +27,7 @@
   <defs
      id="defs33" />
   <sodipodi:namedview
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -34,63 +35,87 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="948"
+     inkscape:window-width="640"
      inkscape:window-height="480"
      id="namedview31"
      showgrid="false"
-     inkscape:zoom="2.6346982"
-     inkscape:cx="154.66667"
-     inkscape:cy="32"
-     inkscape:window-x="150"
-     inkscape:window-y="98"
+     inkscape:zoom="3.5652174"
+     inkscape:cx="46"
+     inkscape:cy="9"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g21"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:snap-global="true"
-     pagecolor="#ffffff" />
+     inkscape:current-layer="g21" />
+  <linearGradient
+     id="a"
+     x2="0"
+     y2="100%">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       stop-opacity=".7"
+       id="stop5" />
+    <stop
+       offset=".1"
+       stop-color="#aaa"
+       stop-opacity=".1"
+       id="stop7" />
+    <stop
+       offset=".9"
+       stop-opacity=".3"
+       id="stop9" />
+    <stop
+       offset="1"
+       stop-opacity=".5"
+       id="stop11" />
+  </linearGradient>
   <rect
-     rx="14.222222"
-     width="309.33334"
-     height="64"
-     id="rect13"
-     x="0"
-     y="0"
-     style="fill:#555555;opacity:1" />
+     rx="4"
+     width="92"
+     height="18"
+     fill="#555"
+     id="rect13" />
   <rect
-     rx="14.222222"
-     x="131.55554"
-     width="177.77777"
-     height="64"
-     id="rect15"
-     y="0"
-     style="fill:#85c155" />
+     rx="4"
+     x="37"
+     width="55"
+     height="18"
+     fill="#dfb317"
+     id="rect15" />
   <path
-     d="m 131.55555,0 h 14.22222 v 64 h -14.22222 z"
-     id="path17"
-     inkscape:connector-curvature="0"
-     style="fill:#85c155" />
+     fill="#dfb317"
+     d="M37 0h4v18h-4z"
+     id="path17" />
   <rect
-     rx="14.222222"
-     width="309.33334"
-     height="64"
-     id="rect19"
-     x="0"
-     y="0"
-     style="fill:url(#000)" />
+     rx="4"
+     width="92"
+     height="18"
+     fill="url(#a)"
+     id="rect19" />
   <g
+     fill="#fff"
+     text-anchor="middle"
+     font-family="Verdana,DejaVu Sans,sans-serif"
      font-size="10"
-     id="g21"
-     transform="matrix(3.5555556,0,0,3.5555556,-1.3505859e-5,0)"
-     style="font-size:10px;text-anchor:middle;fill:#ffffff;font-family:'Verdana,DejaVu Sans,sans-serif'">
+     id="g21">
+    <text
+       x="19.5"
+       y="13"
+       fill="#010101"
+       fill-opacity=".3"
+       id="text23">编辑中</text>
     <text
        x="19.5"
        y="12"
        id="text25">编辑中</text>
     <text
-       x="61"
+       x="63.5"
+       y="13"
+       fill="#010101"
+       fill-opacity=".3"
+       id="text27">禁止转载</text>
+    <text
+       x="63.5"
        y="12"
        id="text29">禁止转载</text>
   </g>
