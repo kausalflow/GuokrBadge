@@ -8,10 +8,7 @@ GuokrBadge
 
 关于 LePtC 协议请查看其日志：[作品在提交后的24小时禁止转载](http://www.guokr.com/blog/490774/)
 
-![LePtC Alpha](https://raw.github.com/GuokrUnion/GuokrBadge/master/leptc/leptcA.png)
 
-64:
-`https://raw.github.com/GuokrUnion/GuokrBadge/master/leptc/leptcA.png`
 
 
 
