@@ -195,6 +195,23 @@ GuokrBadge
 
 同 CC 协议。
 
+
+--------
+SVG Version
+
+![Copyleft](http://guokrunion.github.io/GuokrBadge/cl/svg/cl.svg)
+
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cl/svg/cl.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cl/svg/cl_32.svg`
+
+
+--------
+PNG Version
+
 ![Copyleft](https://raw.github.com/GuokrUnion/GuokrBadge/master/cl/cl.png)
 
 mini (30*30):
@@ -219,6 +236,21 @@ mini (30*30):
 ### 使用方法
 
 同 CC 协议。
+
+--------
+SVG Version
+
+![Copyright](http://guokrunion.github.io/GuokrBadge/cr/svg/cr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cr/svg/cr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cr/svg/cr_32.svg`
+
+
+--------
+PNG Version
 
 ![Copyleft](https://raw.github.com/GuokrUnion/GuokrBadge/master/cr/cr.png)
 
