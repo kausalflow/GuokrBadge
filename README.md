@@ -23,6 +23,72 @@ GuokrBadge
 1. 从 Repo 中选择合适自己的协议的图片，另存在自己电脑上，然后在编辑帖子/问答的时候从自己电脑上上传。（这样如果将来这个 Repo 中的图片设计等有所改动，不能够同步更正。例如果壳色有了变化，这里的图片颜色也会改变，但是不能同步到果壳。）
 2. 复制相应的图片的链接，在果壳的编辑器中，插入图片，选择站外链接粘贴过去即可。（这种方法在将来设计上有了改动，那么果壳的内容会同步变化。）
 
+--------
+**SVG Version**
+
+* CC BY
+
+![CC By](http://guokrunion.github.io/GuokrBadge/cc/svg/ccby.svg)
+
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccby.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccby_32.svg`
+
+* CC BY-NC
+
+![CC BY-NC](http://guokrunion.github.io/GuokrBadge/cc/svg/ccbync.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbync.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbync_32.svg`
+
+
+* CC BY-SA
+
+![CC BY-SA](http://guokrunion.github.io/GuokrBadge/cc/svg/ccbysa.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbysa.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbysa_32.svg`
+
+
+* CC BY-ND
+
+![CC BY-ND](http://guokrunion.github.io/GuokrBadge/cc/svg/ccbynd.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbynd.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbynd_32.svg`
+
+* CC BY-NC-ND
+
+![CC BY-NC-ND](http://guokrunion.github.io/GuokrBadge/cc/svg/ccbyncnd.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbyncnd.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbyncnd_32.svg`
+
+
+* CC BY-NC-SA
+
+![CC BY-NC-SA](http://guokrunion.github.io/GuokrBadge/cc/svg/ccbyncsa.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbyncsa.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/svg/ccbyncsa_32.svg`
 
 
 
