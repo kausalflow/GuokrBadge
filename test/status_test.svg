@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="92"
-   height="18"
+   width="327.11111"
+   height="64"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -35,21 +35,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1170"
+     inkscape:window-height="577"
      id="namedview31"
      showgrid="false"
-     inkscape:zoom="3.5652174"
-     inkscape:cx="46"
-     inkscape:cy="9"
+     inkscape:zoom="2.1735733"
+     inkscape:cx="163.55556"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g21" />
+     inkscape:current-layer="g21"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <linearGradient
      id="a"
      x2="0"
-     y2="100%">
+     y2="40.693981"
+     gradientTransform="scale(8.0383172,1.5727142)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
     <stop
        offset="0"
        stop-color="#fff"
@@ -70,53 +78,58 @@
        id="stop11" />
   </linearGradient>
   <rect
-     rx="4"
-     width="92"
-     height="18"
-     fill="#555"
-     id="rect13" />
+     rx="14.222222"
+     width="327.11111"
+     height="64"
+     id="rect13"
+     x="0"
+     y="0"
+     style="fill:#555555" />
   <rect
-     rx="4"
-     x="37"
-     width="55"
-     height="18"
-     fill="#dfb317"
-     id="rect15" />
+     rx="14.222222"
+     x="131.55556"
+     width="195.55556"
+     height="64"
+     id="rect15"
+     y="0"
+     style="fill:#dfb317" />
   <path
-     fill="#dfb317"
-     d="M37 0h4v18h-4z"
-     id="path17" />
+     d="m 131.55556,0 h 14.22222 v 64 h -14.22222 z"
+     id="path17"
+     inkscape:connector-curvature="0"
+     style="fill:#dfb317" />
   <rect
-     rx="4"
-     width="92"
-     height="18"
-     fill="url(#a)"
-     id="rect19" />
+     rx="14.222222"
+     width="327.11111"
+     height="64"
+     id="rect19"
+     style="fill:url(#a)"
+     x="0"
+     y="0" />
   <g
-     fill="#fff"
-     text-anchor="middle"
-     font-family="Verdana,DejaVu Sans,sans-serif"
      font-size="10"
-     id="g21">
+     id="g21"
+     style="font-size:10px;text-anchor:middle;fill:#ffffff;font-family:'Verdana,DejaVu Sans,sans-serif'"
+     transform="translate(117.55556,23)">
     <text
-       x="19.5"
-       y="13"
-       fill="#010101"
-       fill-opacity=".3"
-       id="text23">编辑中</text>
+       x="-48.222221"
+       y="23.222221"
+       id="text23"
+       style="font-size:35.55555725px;fill:#010101;fill-opacity:0.3">编辑中</text>
     <text
-       x="19.5"
-       y="12"
-       id="text25">编辑中</text>
+       x="-48.222221"
+       y="19.666666"
+       id="text25"
+       style="font-size:35.55555725px">编辑中</text>
     <text
-       x="63.5"
-       y="13"
-       fill="#010101"
-       fill-opacity=".3"
-       id="text27">禁止转载</text>
+       x="108.22222"
+       y="23.222221"
+       id="text27"
+       style="font-size:35.55555725px;fill:#010101;fill-opacity:0.3">禁止转载</text>
     <text
-       x="63.5"
-       y="12"
-       id="text29">禁止转载</text>
+       x="108.22222"
+       y="19.666666"
+       id="text29"
+       style="font-size:35.55555725px">禁止转载</text>
   </g>
 </svg>
