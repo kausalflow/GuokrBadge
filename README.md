@@ -24,6 +24,22 @@ GuokrBadge
 2. 复制相应的图片的链接，在果壳的编辑器中，插入图片，选择站外链接粘贴过去即可。（这种方法在将来设计上有了改动，那么果壳的内容会同步变化。）
 
 
+--------
+**SVG Version**
+
+* CC BY
+
+![CC By](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/svg/ccby.svg)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/svg/ccby.svg`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/svg/ccby_32.svg`
+
+--------
+**PNG Version**
+
 * CC BY
 
 ![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/ccby.png)
