@@ -4,6 +4,17 @@ GuokrBadge
 为果壳设计使用的一些 Badge，可以用于问答，文章，小组等。
 
 
+## LePtC 24小时内禁止转载图标
+
+关于 LePtC 协议请查看其日志：[作品在提交后的24小时禁止转载](http://www.guokr.com/blog/490774/)
+
+![LePtC Alpha](https://raw.github.com/GuokrUnion/GuokrBadge/master/leptc/leptcA.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/leptc/leptcA.png`
+
+
+
 
 ## 果壳色 CC 协议
 
