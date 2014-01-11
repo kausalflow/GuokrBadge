@@ -34,7 +34,68 @@ GuokrBadge
 
 ![CC BY](http://guokrunion.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.svg)
 
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.svg`
 
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_by.flat.guokr.32.svg`
+
+
+* CC BY-NC
+
+![CC BY-NC](http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bync.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bync.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bync.flat.guokr.32.svg`
+
+
+* CC BY-SA
+
+![CC BY-SA](http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bysa.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bysa.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bysa.flat.guokr.32.svg`
+
+
+* CC BY-ND
+
+
+![CC BY-ND](http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bynd.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bynd.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_bynd.flat.guokr.32.svg`
+
+
+* CC BY-NC-ND
+
+![CC BY-NC-ND](http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncnd.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncnd.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncnd.flat.guokr.32.svg`
+
+
+* CC BY-NC-SA
+
+
+![CC BY-NC-SA](http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncsa.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncsa.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncsa.flat.guokr.32.svg`
 
 
 
