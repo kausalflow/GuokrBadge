@@ -98,6 +98,84 @@ GuokrBadge
 `http://guokrunion.github.io/GuokrBadge/cc/gs/cc_byncsa.flat.guokr.32.svg`
 
 
+-------
+**PNG Version**
+
+
+
+* CC BY
+
+![CC BY](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_by.flat.guokr.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_by.flat.guokr.png`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_by.flat.guokr.32.png`
+
+
+* CC BY-NC
+
+![CC BY-NC](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bync.flat.guokr.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bync.flat.guokr.png`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bync.flat.guokr.32.png`
+
+
+* CC BY-SA
+
+![CC BY-SA](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bysa.flat.guokr.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bysa.flat.guokr.png`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bysa.flat.guokr.32.png`
+
+
+* CC BY-ND
+
+
+![CC BY-ND](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bynd.flat.guokr.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bynd.flat.guokr.png`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_bynd.flat.guokr.32.png`
+
+
+* CC BY-NC-ND
+
+![CC BY-NC-ND](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_byncnd.flat.guokr.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_byncnd.flat.guokr.png`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_byncnd.flat.guokr.32.png`
+
+
+* CC BY-NC-SA
+
+
+![CC BY-NC-SA](https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_byncsa.flat.guokr.png)
+
+64:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_byncsa.flat.guokr.png`
+
+32:
+`https://raw.github.com/GuokrUnion/GuokrBadge/master/cc/gs/cc_byncsa.flat.guokr.32.png`
+
+
+
+
+
+
+
 
 ## 果壳色 CC 协议
 
