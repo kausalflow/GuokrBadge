@@ -21,7 +21,7 @@ GuokrBadge
 -----------
 
 
-目录：
+## 目录：
 
 * [LePtC 24小时内禁止转载图标](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#leptc-24%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%81%E6%AD%A2%E8%BD%AC%E8%BD%BD%E5%9B%BE%E6%A0%87)
 
