@@ -60,6 +60,10 @@ GuokrBadge
 
 灰色 + 果壳色（`#85c155`）
 
+使用 inkscape，按照如下标准制作：
+
+![How Do We Make These SVGs](https://raw.github.com/GuokrUnion/GuokrBadge/master/warehouse/howCCSVG.png)
+
 
 ------
 #### **SVG Version**
