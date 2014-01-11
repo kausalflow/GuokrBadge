@@ -6,6 +6,10 @@ GuokrBadge
 
 **关于统一所有图标格式的讨论：[样式讨论](https://github.com/GuokrUnion/GuokrBadge/issues/2)。**
 
+## 使用方法
+
+**如果你没有用过 CC 协议，不知道该如何选择，先从 [这里](http://creativecommons.org/choose/?lang=zh) 选择适合自己的 CC协议。**
+
 
 两种方法：
 
@@ -216,9 +220,6 @@ GuokrBadge
 图片 resize 使用了 [PicResize](http://www.picresize.com/)
 
 
-### 使用方法
-
-**从 [这里](http://creativecommons.org/choose/?lang=zh) 选择自己的 CC协议。**
 
 
 
