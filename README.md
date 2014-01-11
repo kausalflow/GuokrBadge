@@ -4,6 +4,9 @@ GuokrBadge
 为果壳设计使用的一些 Badge，可以用于问答，文章，小组等。
 
 
+**关于统一所有图标格式的讨论：[样式讨论](https://github.com/GuokrUnion/GuokrBadge/issues/2)。**
+
+
 ## LePtC 24小时内禁止转载图标
 
 关于 LePtC 协议请查看其日志：[作品在提交后的24小时禁止转载](http://www.guokr.com/blog/490774/)
@@ -205,7 +208,7 @@ GuokrBadge
 
 
 --------
-SVG Version
+SVG Version **Not Working**.
 
 ![Copyleft](http://guokrunion.github.io/GuokrBadge/cl/svg/cl.svg)
 
