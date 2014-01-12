@@ -23,7 +23,7 @@ GuokrBadge
 
 ## 目录：
 
-* [LePtC 24小时内禁止转载图标](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#leptc-24%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%81%E6%AD%A2%E8%BD%AC%E8%BD%BD%E5%9B%BE%E6%A0%87)
+* [LePtC : Copy Delay License 图标](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#leptc-24%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%81%E6%AD%A2%E8%BD%AC%E8%BD%BD%E5%9B%BE%E6%A0%87)
 
 * [胶囊 + 果壳色 CC 协议](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#%E8%83%B6%E5%9B%8A--%E6%9E%9C%E5%A3%B3%E8%89%B2-cc-%E5%8D%8F%E8%AE%AE)
   1. [SVG 版本](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#svg-version)
@@ -48,9 +48,32 @@ GuokrBadge
 -----------
 
 
-## LePtC 24小时内禁止转载图标
+## LePtC : Copy Delay License 图标
 
 关于 LePtC 协议请查看其日志：[作品在提交后的24小时禁止转载](http://www.guokr.com/blog/490774/)
+
+------
+#### **SVG Version**
+
+* Copy Delay - Delay
+
+![Copy Delay - Delay](http://guokrunion.github.io/GuokrBadge/cd/cd_delay.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cd/cd_delay.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cd/cd_delay.flat.guokr.32.svg`
+
+* Copy Delay - Finished
+
+![Copy Delay - Finished](http://guokrunion.github.io/GuokrBadge/cd/cd_finished.flat.guokr.svg)
+
+64:
+`http://guokrunion.github.io/GuokrBadge/cd/cd_finished.flat.guokr.svg`
+
+32:
+`http://guokrunion.github.io/GuokrBadge/cd/cd_finished.flat.guokr.32.svg`
 
 
 
