@@ -16,6 +16,21 @@ GuokrBadge
 1. 从 Repo 中选择合适自己的协议的图片，另存在自己电脑上，然后在编辑帖子/问答的时候从自己电脑上上传。（这样如果将来这个 Repo 中的图片设计等有所改动，不能够同步更正。例如果壳色有了变化，这里的图片颜色也会改变，但是不能同步到果壳。）
 2. 复制相应的图片的链接，在果壳的编辑器中，插入图片，选择站外链接粘贴过去即可。（这种方法在将来设计上有了改动，那么果壳的内容会同步变化。）
 
+例如，我们需要使用 CC BY-NC-SA 协议，而且喜欢这种胶囊形状的图标，并且我们想使用 SVG 图片，而不是 PNG 图片。那么从我们的 [README.md](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md ) 中找到这个协议（在目录中找到胶囊 + 果壳色 CC 协议 ~ SVG 版本）：
+
+![example](https://raw.github.com/GuokrUnion/GuokrBadge/master/warehouse/readmeExample1.png)
+
+看到我们给出了两个不同大小的图片的链接，一个 64px, 一个 32px，这个大小指的是图标的高度。实际上这些 SVG 图片缩放不变，所以大小倒是没有那么重要，只是如果你在一些网站写作品，但是这个网站又不支持自定义图片大小，那么就不得不选择合适大小的图片了。
+
+例如我们想要使用 32px 高度的图片，那么把那个图片链接复制出来：
+
+![example](https://raw.github.com/GuokrUnion/GuokrBadge/master/warehouse/readmeExample2.png)
+
+然后在需要的地方使用即可。例如在果壳的编辑框中，插入图片是可以使用外链的，把上面复制的图片链接粘贴过来即可：
+
+![example](https://raw.github.com/GuokrUnion/GuokrBadge/master/warehouse/readmeExample3.png)
+
+
 -----------
 -----------
 -----------
