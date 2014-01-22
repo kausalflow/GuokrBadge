@@ -49,7 +49,7 @@ GuokrBadge
   2. [PNG 版本](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#png-version-1)
 
 * [果壳色 Copyleft](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#%E6%9E%9C%E5%A3%B3%E8%89%B2-copyleft)
-  1. [SVG 版本（目前尚不工作）](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#svg-version-not-working)
+  1. [SVG 版本](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#svg-version-not-working)
   2. [PNG 版本](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#png-version-2)
 
 * [果壳色 Copyright](https://github.com/GuokrUnion/GuokrBadge/blob/master/README.md#%E6%9E%9C%E5%A3%B3%E8%89%B2-copyright)
